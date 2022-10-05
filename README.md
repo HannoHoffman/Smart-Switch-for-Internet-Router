@@ -3,9 +3,15 @@ For my first Github, I will demonstrate how I managed to create a smart switch t
 
 For the project you will need:
 -ESP32 (or Arduino Uno for non-online applications)
+
 -1ch Relay
+
 -buck converter
+
 -Male DC plug,
+
 -Female DC plug
+
 -The schematic is as follows:
+
 
